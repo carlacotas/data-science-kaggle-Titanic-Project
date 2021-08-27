@@ -1,1 +1,1 @@
-# data-science-kaggle-Titanic-Project
+# Titanic Project - kaggle 'Competitions' 👩‍💻📈📊
