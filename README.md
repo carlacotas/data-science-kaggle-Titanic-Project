@@ -1,1 +1,1 @@
-# Titanic Project - kaggle 'Competitions' 👩‍💻📈📊
+# kaggle 'Competitions': Titanic Project 👩‍💻📈📊
