@@ -12,11 +12,11 @@ This project contains the solution for the  [Titanic ML competition on Kaggle](h
 
 ## What's in this project? 👩‍💻
 
-<li/> <i>`README.md`:</i> That's this file, where you can describe your project and how you built it. 
+`README.md`: That's this file, where you can describe your project and how you built it. 
 
 <p/>
 
-<li/> <i>`TitanicProjectExample.ipynb`:</i> This is the main file for the data science project (using Google Colab), with Python code.
+`TitanicProjectExample.ipynb`: This is the main file for the data science project (using Google Colab), with Python code.
 
 
 
